@@ -1,7 +1,7 @@
 #logo a {
     background-image: url('https://tomclark89.github.io/theme/ASTRUM-logo-small.png');
     min-height: 0;
-    height: 120px;
+    height: 200px;
 }
 * html #logo a {
     background-image: none;
